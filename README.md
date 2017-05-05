@@ -1,5 +1,5 @@
 # softspec final project
-## members: 
+## MEMBERS: 
 1. Methawee Apinainarong    5810546714<br>
 2. Palita Samrongpol        5810545441<br>
 3. Benyapa Suesattabongkot  58105xxxxx<br>
