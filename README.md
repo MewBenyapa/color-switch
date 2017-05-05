@@ -1,5 +1,5 @@
 # softspce final project ♡
-### members: 🐷
+### 🐷 members: 
 ```ini
 1. Methawee Apinainarong    5810546714
 2. Palita Samrongpol        5810545441
