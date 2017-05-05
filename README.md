@@ -15,7 +15,7 @@
 ```
 
 # color-switch 
-
+<p>🚩 goal: to collect stars throughout the level that will let you unlock additional content.<br></p>
 <p>Tap the ball carefully through each obstacle and your ball will switch color with some powerups.<br>
 You must follow the color pattern on each obstacle to cross it :-)<br>
 Be careful not to pass through the wrong color, or you’ll have to start again.</p>
