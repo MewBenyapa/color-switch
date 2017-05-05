@@ -20,6 +20,15 @@
 You must follow the color pattern on each obstacle to cross it :-)<br>
 Be careful not to pass through the wrong color, or you’ll have to start again.</p>
 
+## use case
+```ini
+- tap the ball to jump carefully through each obstacle.
+- you must follow the color pattern on each obstacle to cross it.
+- when you pass through the side with the same color as you, ball will switch.
+- if you touch the wrong corresponding color as your ball you will die.
+- when the game is over, you can views your replay.
+```
+
 
 
 
