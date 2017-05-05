@@ -1,11 +1,11 @@
 # softspce final project ♡
 ```ini
-- Use Case           10%
-- Domain Model       10%
-- Design Pattern     20%
-- Design Principle   20%
-- Project Complexity 30%
-- Project Quality    10%
+- Use Case            10%
+- Domain Model        10%
+- Design Pattern      20%
+- Design Principle    20%
+- Project Complexity  30%
+- Project Quality     10%
 ```
 ### 🐷 members: 
 ```ini
