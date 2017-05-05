@@ -17,7 +17,7 @@
 # color-switch 
 <p>Tap the ball carefully through each obstacle and your ball will switch color with some powerups.<br>
 You must follow the color pattern on each obstacle to cross it :-)<br>
-Be careful not to pass through the wrong color, or you’ll have to start again.<br><br></p>
+Be careful not to pass through the wrong color, or you’ll have to start again.<br></p>
 
 - color switch tips & strategies ([link](http://www.gamezebo.com/2016/01/07/color-switch-tips-cheats-and-strategies/))
 
